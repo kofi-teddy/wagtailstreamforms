@@ -31,3 +31,7 @@ module.exports = ({ env }) => ({
     },
   },
 });
+
+mongodb+srv://admin:<password>@cluster0.bktws.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
